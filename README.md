@@ -1,4 +1,4 @@
-# [vue-apollo-tutorial](https:reactgo.com/vue-graphql-apollo-tutorial/)
+# [vue-apollo-tutorial](https://reactgo.com/vue-graphql-apollo-tutorial/)
 
 ## Project setup
 ```

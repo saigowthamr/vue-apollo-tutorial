@@ -5,6 +5,8 @@
 npm install
 ```
 
+- Add your GitHub api key in `main.js` file
+
 ### Compiles and hot-reloads for development
 ```
 npm run serve
